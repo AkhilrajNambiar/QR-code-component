@@ -17,7 +17,7 @@ body {
 
 .qr-code-box {
     background-color: white;
-    width: 20%;
+    min-width: 270px;
     height: 65%;
     border-radius: 15px;
     display: grid;
